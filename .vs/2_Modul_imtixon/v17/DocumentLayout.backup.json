@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI Cyborg\\Desktop\\2_Modul_imtixon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA886DD9-50B4-4BD4-B6FA-CB1D86DF16DF}|2_Modul_imtixon\\2_Modul_imtixon.csproj|c:\\users\\msi cyborg\\desktop\\2_modul_imtixon\\2_modul_imtixon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA886DD9-50B4-4BD4-B6FA-CB1D86DF16DF}|2_Modul_imtixon\\2_Modul_imtixon.csproj|solutionrelative:2_modul_imtixon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA886DD9-50B4-4BD4-B6FA-CB1D86DF16DF}|2_Modul_imtixon\\2_Modul_imtixon.csproj|c:\\users\\msi cyborg\\desktop\\2_modul_imtixon\\2_modul_imtixon\\nazariy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA886DD9-50B4-4BD4-B6FA-CB1D86DF16DF}|2_Modul_imtixon\\2_Modul_imtixon.csproj|solutionrelative:2_modul_imtixon\\nazariy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nazariy.txt",
+              "DocumentMoniker": "C:\\Users\\MSI Cyborg\\Desktop\\2_Modul_imtixon\\2_Modul_imtixon\\Nazariy.txt",
+              "RelativeDocumentMoniker": "2_Modul_imtixon\\Nazariy.txt",
+              "ToolTip": "C:\\Users\\MSI Cyborg\\Desktop\\2_Modul_imtixon\\2_Modul_imtixon\\Nazariy.txt",
+              "RelativeToolTip": "2_Modul_imtixon\\Nazariy.txt",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-05T13:22:43.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI Cyborg\\Desktop\\2_Modul_imtixon\\2_Modul_imtixon\\Program.cs",
+              "RelativeDocumentMoniker": "2_Modul_imtixon\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI Cyborg\\Desktop\\2_Modul_imtixon\\2_Modul_imtixon\\Program.cs",
+              "RelativeToolTip": "2_Modul_imtixon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:06:58.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

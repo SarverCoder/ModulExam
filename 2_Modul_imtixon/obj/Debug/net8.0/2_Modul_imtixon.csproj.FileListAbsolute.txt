@@ -1,0 +1,14 @@
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\bin\Debug\net8.0\2_Modul_imtixon.exe
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\bin\Debug\net8.0\2_Modul_imtixon.deps.json
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\bin\Debug\net8.0\2_Modul_imtixon.runtimeconfig.json
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\bin\Debug\net8.0\2_Modul_imtixon.dll
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\bin\Debug\net8.0\2_Modul_imtixon.pdb
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\obj\Debug\net8.0\2_Modul_imtixon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\obj\Debug\net8.0\2_Modul_imtixon.AssemblyInfoInputs.cache
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\obj\Debug\net8.0\2_Modul_imtixon.AssemblyInfo.cs
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\obj\Debug\net8.0\2_Modul_imtixon.csproj.CoreCompileInputs.cache
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\obj\Debug\net8.0\2_Modul_imtixon.dll
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\obj\Debug\net8.0\refint\2_Modul_imtixon.dll
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\obj\Debug\net8.0\2_Modul_imtixon.pdb
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\obj\Debug\net8.0\2_Modul_imtixon.genruntimeconfig.cache
+C:\Users\MSI Cyborg\Desktop\2_Modul_imtixon\2_Modul_imtixon\obj\Debug\net8.0\ref\2_Modul_imtixon.dll

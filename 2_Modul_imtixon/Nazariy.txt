@@ -1,0 +1,35 @@
+Nazariy savol: 
+1)
+OOP bu obyektga yonaltrilgan dasturlash bo'lib obyektlar bilan ishlashga mo'ljallangan 
+masalan obyekt degani masalan jism bo'lishi mumkin yoki shaxs va boshqa atrofdagi narsa va buyumlar obyekt hisoblanadi
+bu obyectlar class dan olinadi 
+
+class bu metod va maydonlardan tashkil topgan hisoblanadi 
+
+class dan obyektlar hosil qilinadi
+
+masalan Moshina clasini oladigan bolsak undan obyekt aniq nomga va o'ziga xos xususiyatlarga ega bo'ladi
+
+
+2) OOP ning assosiy prinsiplariga: 
+
+
+inheritance - bu asosiy prinsipi hisoblanib bir class boshqasiga voris bo'lib o'tsa uning maydonlar va metodlari yani 
+xususiyatlari ko'chib o'tadi vorislikni exmaple:  class name : Other class ko'rinishida vorislik amalga oshiriladi
+
+polymorphism - bu metodlarni qayta yuklanishi yani bir xil nomga ega bo'lgan metodlarni har xil parmetrlar orqali ishlatish
+imkonini beradi bu method overloadinga misol bo'ladi Override method bu bir class voris bo'lib o'tgan classga o'sha metodni
+classga moslab boshqa vazifada ishlatish imkonini beradi buning uchun base class dagi metodni virtual qilib keyingi classda override qilib 
+foydalaniladi
+
+abctraction - bu mavhum class hisoblandi uni masalalan Animal abctract clasini misol qilib oladigan bo'lsak 
+undagi speak metodi abctract qilib yoziladi chun hamma hayvonni ovozi har xil bo'lgani uchun
+abctract classdan obyekt olib bo'maydi va meros bo'lib o'tgan classda obctact metodni implementatsiya qilish zarur bo'ladi.
+
+Interface - bu yani node larga o'shaydi bizga shablon ko'rinishida metodlarni override qilib boshqattad yozish kerak bo'ladi
+bundan multiple inheritan bo'ladi yani bitta classga bir nechta interface meros bo'lishi mumkin
+
+encapsulation - bu oopning asosiy prinsiplardan biri bo'lib bunda biz class ni maydonlari va methodlarnini foydalanuvchidan yashirish
+yani kapsulaga o'rash kerak bo'ladi bu jarayon modificatorlar orqali amalga oshiriladi 
+public private protected internal kabilardan foydalanamiz
+exmaple: bizada bank akkaunt bor undagi mablag'imiz ni encapsulatsiya qilmasak uni darxol yechib ketishlari mumkin
